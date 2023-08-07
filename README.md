@@ -1,2 +1,2 @@
 # Hello World!
- Repositorie created during GIT classes 
+ Repositorie created during GIT-GITHUB classes.
