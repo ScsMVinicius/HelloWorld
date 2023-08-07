@@ -1,2 +1,2 @@
-# HelloWorld
- Learning GIT
+# Hello World!
+ Repositorie created during GIT classes 
